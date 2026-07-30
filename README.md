@@ -2,7 +2,9 @@
 
 ## Final Data Visualization Project — Summer 2026
 
-**Author:** SHAIK KHAJA SOHAIL HUSSAIN
+**Author:** SHAIK KHAJA SOHAIL HUSSAIN  
+**Matriculation number:** 82022509  
+**Subject:** DATA VISUALIZATION
 
 ---
 
