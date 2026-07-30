@@ -2,7 +2,7 @@
 
 ## Final Data Visualization Project — Summer 2026
 
-**Author:** YOUR NAME
+**Author:** SHAIK KHAJA SOHAIL HUSSAIN
 
 ---
 
@@ -348,7 +348,13 @@ The complete source code, notebook, dataset information and presentation are
 available in the public GitHub repository.
 
 **GitHub repository:**  
-YOUR GITHUB REPOSITORY LINK
+## GitHub Repository
+
+The complete source code, notebook, datasets and dashboard files are available
+in the public GitHub repository.
+
+**GitHub repository:**  
+https://github.com/sksohailhussain10-spec/deutsche-bahn-delay-analysis
 
 ---
 
